@@ -4,7 +4,7 @@ GitHub Finder is a web application that allows you to quickly and effectively fi
 
 <h2>Technologies used in the project</h2>
 
-Codded in HTML5 , CSS3 ve JS
+Codded in HTML5 , CSS3 and JS
 
 <h2>Screen Gif</h2>
 
